@@ -1,0 +1,21 @@
+Sort method,N,Actual  time taken  in nano seconds,Expected time taken in nano seconds
+InsertionSort,10,162.5976,100
+InsertionSort,20,430.8209,400
+InsertionSort,40,1031.8943,1600
+InsertionSort,80,194.925,6400
+InsertionSort,160,266.4017,25600
+InsertionSort,320,860.4546,102400
+InsertionSort,640,5279.2554,409600
+InsertionSort,1280,143447.6446,1638400
+InsertionSort,2560,148718.0281,6553600
+InsertionSort,5120,14411779.27,26214400
+SelectionSort,10,104.8523,100
+SelectionSort,20,450.2669,400
+SelectionSort,40,1337.6156,1600
+SelectionSort,80,5763.2401,6400
+SelectionSort,160,22051.9549,25600
+SelectionSort,320,92439.0782,102400
+SelectionSort,640,393062.7924,409600
+SelectionSort,1280,1602139.08,1638400
+SelectionSort,2560,6338382.314,6553600
+SelectionSort,5120,22843110.31,26214400
